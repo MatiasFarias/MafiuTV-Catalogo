@@ -25,109 +25,109 @@ La verificación se hace a pedido, no de forma automática. Muchas señales chil
 🟢 Funciona · 🟡 Funciona con una fuente de respaldo · 🔴 Caída · ⚪ Sin verificar
 
 <!-- estado:inicio -->
-**Catálogo versión 5** · 77 señales · 🟢 0 · 🟡 0 · 🔴 0 · ⚪ 77
+**Catálogo versión 5** · 77 señales · 🟢 77 · 🟡 0 · 🔴 0 · ⚪ 0
 
-Aún no hay verificaciones.
+Última verificación: 10-11-2026 23:05 (hora de Chile) desde Chile.
 
 ### Nacional
 
 | N.º | Canal | Estado | Última verificación | Detalle |
 |---:|---|---|---|---|
-| 1 | Canal 13 | ⚪ Sin verificar | — |  |
-| 2 | Mega | ⚪ Sin verificar | — |  |
-| 3 | Chilevisión | ⚪ Sin verificar | — |  |
-| 4 | TVN | ⚪ Sin verificar | — |  |
-| 5 | T13 En Vivo | ⚪ Sin verificar | — |  |
-| 6 | Meganoticias Ahora | ⚪ Sin verificar | — |  |
-| 7 | CHV Noticias | ⚪ Sin verificar | — |  |
-| 8 | 24 Play | ⚪ Sin verificar | — |  |
+| 1 | Canal 13 | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 2 | Mega | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 3 | Chilevisión | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 4 | TVN | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 5 | T13 En Vivo | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 6 | Meganoticias Ahora | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 7 | CHV Noticias | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 8 | 24 Play | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
 
 ### Más Chile
 
 | N.º | Canal | Estado | Última verificación | Detalle |
 |---:|---|---|---|---|
-| 10 | NTV | ⚪ Sin verificar | — |  |
-| 11 | TV Senado | ⚪ Sin verificar | — |  |
-| 12 | La Red | ⚪ Sin verificar | — |  |
-| 13 | TV+ | ⚪ Sin verificar | — |  |
-| 14 | TVN 3 | ⚪ Sin verificar | — |  |
-| 15 | TV Chile | ⚪ Sin verificar | — |  |
-| 16 | Bío Bío TV | ⚪ Sin verificar | — |  |
-| 17 | UChile TV | ⚪ Sin verificar | — |  |
-| 18 | Santiago TV | ⚪ Sin verificar | — |  |
-| 19 | UCV TV | ⚪ Sin verificar | — |  |
+| 10 | NTV | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 11 | TV Senado | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 12 | La Red | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 13 | TV+ | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 14 | TVN 3 | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 15 | TV Chile | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 16 | Bío Bío TV | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 17 | UChile TV | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 18 | Santiago TV | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 19 | UCV TV | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
 
 ### Regionales
 
 | N.º | Canal | Estado | Última verificación | Detalle |
 |---:|---|---|---|---|
-| 20 | Iquique TV | ⚪ Sin verificar | — |  |
-| 21 | Antofagasta TV | ⚪ Sin verificar | — |  |
-| 22 | Holvoet TV | ⚪ Sin verificar | — |  |
-| 23 | Thema TV | ⚪ Sin verificar | — |  |
-| 24 | TVR | ⚪ Sin verificar | — |  |
-| 25 | VTV Aconcagua | ⚪ Sin verificar | — |  |
-| 26 | Canal 2 San Antonio | ⚪ Sin verificar | — |  |
-| 27 | UTalca TV | ⚪ Sin verificar | — |  |
-| 28 | Contivisión | ⚪ Sin verificar | — |  |
-| 29 | Canal 9 Bío-Bío | ⚪ Sin verificar | — |  |
-| 30 | TVU | ⚪ Sin verificar | — |  |
-| 31 | TV UCT | ⚪ Sin verificar | — |  |
-| 32 | Teleangol | ⚪ Sin verificar | — |  |
-| 33 | Décima TV | ⚪ Sin verificar | — |  |
-| 34 | Canal 2 Quellón | ⚪ Sin verificar | — |  |
-| 35 | Santa María TV | ⚪ Sin verificar | — |  |
-| 36 | ITV Patagonia | ⚪ Sin verificar | — |  |
-| 37 | Pingüino TV | ⚪ Sin verificar | — |  |
+| 20 | Iquique TV | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 21 | Antofagasta TV | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 22 | Holvoet TV | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 23 | Thema TV | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 24 | TVR | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 25 | VTV Aconcagua | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 26 | Canal 2 San Antonio | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 27 | UTalca TV | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 28 | Contivisión | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 29 | Canal 9 Bío-Bío | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 30 | TVU | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 31 | TV UCT | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 32 | Teleangol | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 33 | Décima TV | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 34 | Canal 2 Quellón | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 35 | Santa María TV | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 36 | ITV Patagonia | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 37 | Pingüino TV | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
 
 ### Internacional
 
 | N.º | Canal | Estado | Última verificación | Detalle |
 |---:|---|---|---|---|
-| 100 | DW Español | ⚪ Sin verificar | — |  |
-| 101 | France 24 Español | ⚪ Sin verificar | — |  |
-| 102 | Canal 24 Horas | ⚪ Sin verificar | — |  |
-| 103 | TVE Internacional | ⚪ Sin verificar | — |  |
-| 104 | TV Pública | ⚪ Sin verificar | — |  |
-| 105 | TN | ⚪ Sin verificar | — |  |
-| 106 | teleSUR | ⚪ Sin verificar | — |  |
-| 107 | Señal Colombia | ⚪ Sin verificar | — |  |
-| 108 | Canal Once | ⚪ Sin verificar | — |  |
-| 109 | Canal 22 | ⚪ Sin verificar | — |  |
-| 110 | TV UNAM | ⚪ Sin verificar | — |  |
-| 111 | Ecuador TV | ⚪ Sin verificar | — |  |
-| 112 | Paraguay TV | ⚪ Sin verificar | — |  |
-| 113 | DW English | ⚪ Sin verificar | — |  |
-| 114 | France 24 English | ⚪ Sin verificar | — |  |
-| 115 | Al Jazeera English | ⚪ Sin verificar | — |  |
-| 116 | NHK World-Japan | ⚪ Sin verificar | — |  |
-| 117 | CBS News 24/7 | ⚪ Sin verificar | — |  |
-| 118 | Sky News | ⚪ Sin verificar | — |  |
-| 119 | Bloomberg TV | ⚪ Sin verificar | — |  |
-| 120 | Arirang TV | ⚪ Sin verificar | — |  |
+| 100 | DW Español | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 101 | France 24 Español | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 102 | Canal 24 Horas | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 103 | TVE Internacional | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 104 | TV Pública | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 105 | TN | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 106 | teleSUR | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 107 | Señal Colombia | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 108 | Canal Once | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 109 | Canal 22 | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 110 | TV UNAM | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 111 | Ecuador TV | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 112 | Paraguay TV | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 113 | DW English | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 114 | France 24 English | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 115 | Al Jazeera English | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 116 | NHK World-Japan | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 117 | CBS News 24/7 | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 118 | Sky News | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 119 | Bloomberg TV | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 120 | Arirang TV | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
 
 ### Radios
 
 | N.º | Canal | Estado | Última verificación | Detalle |
 |---:|---|---|---|---|
-| 200 | Cooperativa | ⚪ Sin verificar | — |  |
-| 201 | Radio Bío-Bío | ⚪ Sin verificar | — |  |
-| 202 | ADN Radio | ⚪ Sin verificar | — |  |
-| 203 | Radio Agricultura | ⚪ Sin verificar | — |  |
-| 204 | Tele13 Radio | ⚪ Sin verificar | — |  |
-| 205 | Radio Pauta | ⚪ Sin verificar | — |  |
-| 206 | Radio Duna | ⚪ Sin verificar | — |  |
-| 207 | Radio Futuro | ⚪ Sin verificar | — |  |
-| 208 | Rock & Pop | ⚪ Sin verificar | — |  |
-| 209 | Radio Concierto | ⚪ Sin verificar | — |  |
-| 210 | Radio Pudahuel | ⚪ Sin verificar | — |  |
-| 211 | Radio Infinita | ⚪ Sin verificar | — |  |
-| 212 | Radio Carolina | ⚪ Sin verificar | — |  |
-| 213 | Radio Beethoven | ⚪ Sin verificar | — |  |
-| 214 | Radio U. de Chile | ⚪ Sin verificar | — |  |
-| 215 | Bío-Bío Concepción | ⚪ Sin verificar | — |  |
-| 216 | Radio Festival | ⚪ Sin verificar | — |  |
-| 217 | Radio Maray | ⚪ Sin verificar | — |  |
-| 218 | Radio Polar | ⚪ Sin verificar | — |  |
-| 219 | Radio Sol | ⚪ Sin verificar | — |  |
+| 200 | Cooperativa | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 201 | Radio Bío-Bío | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 202 | ADN Radio | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 203 | Radio Agricultura | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 204 | Tele13 Radio | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 205 | Radio Pauta | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 206 | Radio Duna | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 207 | Radio Futuro | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 208 | Rock & Pop | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 209 | Radio Concierto | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 210 | Radio Pudahuel | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 211 | Radio Infinita | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 212 | Radio Carolina | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 213 | Radio Beethoven | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 214 | Radio U. de Chile | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 215 | Bío-Bío Concepción | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 216 | Radio Festival | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 217 | Radio Maray | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 218 | Radio Polar | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
+| 219 | Radio Sol | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
 <!-- estado:fin -->
