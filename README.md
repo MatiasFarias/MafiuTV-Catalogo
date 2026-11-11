@@ -1,3 +1,5 @@
+<p align="center"><img src="logos/mafiutv.png" alt="MafiuTV" width="320" /></p>
+
 # MafiuTV · Catálogo de canales
 
 Lista de canales que usa la app **MafiuTV** (TV abierta chilena, señales regionales, internacionales y radios para Android TV, celulares y tablets), con el estado de cada señal.
@@ -10,7 +12,7 @@ La app incluye una copia del catálogo y, al abrirse, revisa si aquí hay una ve
 |---|---|
 | `catalogo.json` | Canales, secciones y fuentes de cada señal. |
 | `catalogo.json.sig` | Firma del catálogo. La app solo acepta un catálogo cuya firma corresponda a la clave del autor; si el archivo se modifica sin esa clave, la app lo ignora y sigue con el que tiene. |
-| `logos/` | Logos de los canales (`<id>.png`). |
+| `logos/` | Logos de los canales (`<id>.png`) y el de MafiuTV (`mafiutv.png`). |
 | `estado.json` | Último resultado conocido de cada fuente. |
 | `.github/workflows/estado.yml` | Verificación diaria (y a pedido) desde GitHub Actions. Solo actualiza `estado.json` y este README; no puede cambiar el catálogo, porque no tiene la clave de firma. |
 
