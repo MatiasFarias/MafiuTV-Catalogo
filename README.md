@@ -12,15 +12,18 @@ La app incluye una copia del catálogo y, al abrirse, revisa si aquí hay una ve
 | `catalogo.json.sig` | Firma del catálogo. La app solo acepta un catálogo cuya firma corresponda a la clave del autor; si el archivo se modifica sin esa clave, la app lo ignora y sigue con el que tiene. |
 | `logos/` | Logos de los canales (`<id>.png`). |
 | `estado.json` | Último resultado conocido de cada fuente. |
+| `.github/workflows/estado.yml` | Verificación a pedido desde GitHub Actions. Solo actualiza `estado.json` y este README; no puede cambiar el catálogo, porque no tiene la clave de firma. |
 
 Las señales pertenecen a sus emisores. Este catálogo solo apunta a sus transmisiones públicas y gratuitas en vivo; no aloja ni retransmite contenido.
 
 ## Estado de los canales
 
-La verificación se hace a pedido, no de forma automática. Muchas señales chilenas solo se pueden ver desde Chile, así que:
+La verificación se hace a pedido, no de forma automática: desde Chile, o desde GitHub Actions (servidores en EE. UU.) con el workflow *Estado de los canales*. Muchas señales chilenas solo se pueden ver desde Chile, así que:
 
 - Una verificación **desde Chile** actualiza todas las señales.
-- Una verificación **desde fuera de Chile** solo actualiza las señales que pudo confirmar funcionando. Las demás conservan su último estado guardado, con la fecha y el lugar desde donde se verificaron.
+- Una verificación **desde GitHub Actions** solo actualiza las señales que pudo confirmar funcionando. Las demás conservan su último estado guardado, con la fecha y el lugar desde donde se verificaron.
+
+Las correcciones de fuentes se publican como un catálogo nuevo firmado; no las hace el workflow.
 
 🟢 Funciona · 🟡 Funciona con una fuente de respaldo · 🔴 Caída · ⚪ Sin verificar
 

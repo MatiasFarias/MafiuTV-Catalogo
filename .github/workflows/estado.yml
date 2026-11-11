@@ -1,0 +1,58 @@
+name: Estado de los canales
+
+# Verifica las señales desde un servidor de GitHub (EE. UU.) y actualiza estado.json y el README.
+# Desde fuera de Chile solo se guardan las señales que se pudieron confirmar funcionando; las demás
+# conservan su último estado, que se actualiza desde Chile.
+# El verificador vive en el repo privado y se lee con una llave de solo lectura (secreto MAFIUTV_LECTURA).
+# Este workflow no puede cambiar el catálogo: la app solo acepta catálogos firmados con la clave del
+# autor, que no está en GitHub. Se ejecuta solo a pedido.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: estado
+  cancel-in-progress: false
+
+jobs:
+  verificar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      - name: Catálogo
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Verificador (repo privado, solo lectura)
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          repository: MatiasFarias/MafiuTV
+          ssh-key: ${{ secrets.MAFIUTV_LECTURA }}
+          persist-credentials: false
+          path: .verificador
+          sparse-checkout: |
+            tools/verificar_fuentes.py
+            tools/actualizar_estado.py
+          sparse-checkout-cone-mode: false
+
+      - name: Verificar señales
+        run: |
+          python3 -I .verificador/tools/verificar_fuentes.py --catalogo catalogo.json \
+            --lugar "GitHub Actions (EE. UU.)" --json "$RUNNER_TEMP/resultados.json" --md "$RUNNER_TEMP/resumen.md" > /dev/null
+          python3 -I .verificador/tools/actualizar_estado.py --repo . --resultados "$RUNNER_TEMP/resultados.json" \
+            --origen externo --lugar "GitHub Actions (EE. UU.)"
+          rm -rf .verificador
+          cat "$RUNNER_TEMP/resumen.md" >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Publicar estado
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md estado.json
+          if git diff --cached --quiet; then echo "El estado no cambió."; exit 0; fi
+          git commit -q -m "Estado de los canales: verificación desde GitHub Actions"
+          git pull -q --rebase origin main
+          git push -q origin main
