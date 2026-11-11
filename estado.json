@@ -17,8 +17,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "13|WEB|https://www.13.cl/en-vivo|https://www.13.cl/": {
    "ok": true,
@@ -27,8 +27,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "24|HLS|https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8|https://www.24horas.cl/": {
    "ok": true,
@@ -47,8 +47,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "adn|AUDIO|https://playerservices.streamtheworld.com/api/livestream-redirect/ADN.mp3|https://www.adnradio.cl/": {
    "ok": true,
@@ -57,18 +57,18 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "adn|RUDO|https://rudo.video/live/adntv|https://www.adnradio.cl/": {
    "ok": true,
    "paso": "segmento",
    "http": null,
-   "detalle": "",
-   "intermitente": false,
+   "detalle": "Intermitente: el primer intento falló en segmento ( TimeoutError: The read operation timed out)",
+   "intermitente": true,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "agricultura|HLS|https://hls-audio-cl-1-isp.dps.live/agricultura/gotardis/audio/now/livestream1.m3u8|https://www.radioagricultura.cl/": {
    "ok": true,
@@ -77,18 +77,18 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "agricultura|RUDO|https://rudo.video/live/921tv|https://www.radioagricultura.cl/": {
    "ok": true,
    "paso": "segmento",
    "http": null,
-   "detalle": "",
-   "intermitente": false,
+   "detalle": "Intermitente: el primer intento falló en segmento ( TimeoutError: The read operation timed out)",
+   "intermitente": true,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "aljazeera|HLS|https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8|https://www.aljazeera.com/": {
    "ok": true,
@@ -97,8 +97,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "aljazeera|WEB|https://www.aljazeera.com/video/live|https://www.aljazeera.com/": {
    "ok": true,
@@ -107,8 +107,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "arirang|HLS|https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8|https://www.arirang.com/": {
    "ok": true,
@@ -117,8 +117,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "arirang|WEB|https://www.arirang.com/live|https://www.arirang.com/": {
    "ok": true,
@@ -127,8 +127,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "atv|HLS|https://redirector.dps.live/hls/atv/playlist.m3u8|https://www.antofagasta.tv/": {
    "ok": true,
@@ -137,8 +137,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "atv|WEB|https://www.antofagasta.tv/|https://www.antofagasta.tv/": {
    "ok": true,
@@ -147,8 +147,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "bbtv|RUDO|https://rudo.video/live/bbtv|https://www.biobiochile.cl/": {
    "ok": true,
@@ -157,8 +157,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "bbtv|WEB|https://www.biobiochile.cl/biobiotv/|https://www.biobiochile.cl/": {
    "ok": true,
@@ -167,8 +167,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "beethoven|HLS|https://unlimited3-cl.dps.live/beethovenfm/gotardis/audio/now/livestream1.m3u8|https://www.beethovenfm.cl/": {
    "ok": true,
@@ -177,8 +177,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "biobioconce|AUDIO|https://redirector.dps.live/biobioconcepcion/aac/icecast.audio|https://vivo.biobiochile.cl/": {
    "ok": true,
@@ -187,8 +187,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "biobio|AUDIO|https://redirector.dps.live/biobiosantiago/aac/icecast.audio|https://vivo.biobiochile.cl/": {
    "ok": true,
@@ -197,18 +197,18 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "biobio|RUDO|https://rudo.video/live/bbtv|https://vivo.biobiochile.cl/": {
    "ok": true,
    "paso": "segmento",
    "http": null,
-   "detalle": "",
-   "intermitente": false,
+   "detalle": "Intermitente: el primer intento falló en segmento ( TimeoutError: The read operation timed out)",
+   "intermitente": true,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "bloomberg|HLS|https://dai.google.com/linear/hls/event/k-VHR5unRdusBDqoXAuB0Q/master.m3u8|https://www.bloomberg.com/": {
    "ok": true,
@@ -217,8 +217,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "bloomberg|WEB|https://www.bloomberg.com/live/us|https://www.bloomberg.com/": {
    "ok": false,
@@ -237,8 +237,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "canal22|WEB|https://www.canal22.org.mx/|https://www.canal22.org.mx/": {
    "ok": true,
@@ -247,8 +247,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "canal2sa|RUDO|https://rudo.video/live/canal2|https://cablenoticias.cl/": {
    "ok": true,
@@ -257,8 +257,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "canal2sa|WEB|https://cablenoticias.cl/|https://cablenoticias.cl/": {
    "ok": true,
@@ -267,8 +267,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "canal9|RUDO|https://rudo.video/live/c9|https://www.canal9.cl/": {
    "ok": true,
@@ -277,8 +277,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "canal9|WEB|https://www.canal9.cl/|https://www.canal9.cl/": {
    "ok": true,
@@ -287,8 +287,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "canalonce|HLS|https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8|https://canalonce.mx/": {
    "ok": true,
@@ -297,8 +297,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "canalonce|WEB|https://canalonce.mx/en-vivo-on-mexico|https://canalonce.mx/": {
    "ok": true,
@@ -307,8 +307,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "carolina|AUDIO|https://mdstrm.com/audio/637f68ddce4b1208597d8a86/icecast.audio|https://www.carolina.cl/": {
    "ok": true,
@@ -317,8 +317,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "carolina|HLS|https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8|https://www.carolina.cl/": {
    "ok": true,
@@ -337,8 +337,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "cbsnews|WEB|https://www.cbsnews.com/live/|https://www.cbsnews.com/": {
    "ok": true,
@@ -347,8 +347,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "chvn|RUDO|https://rudo.video/live/chvn|https://www.chilevision.cl/": {
    "ok": true,
@@ -357,8 +357,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "chvn|WEB|https://rudo.video/live/chvn?autostart=1&unmute=1|https://www.chilevision.cl/": {
    "ok": true,
@@ -367,8 +367,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "chv|RUDO|https://rudo.video/live/chv|https://www.chilevision.cl/": {
    "ok": true,
@@ -387,8 +387,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "chv|WEB|https://www.chilevision.cl/senal-online/|https://www.chilevision.cl/": {
    "ok": true,
@@ -397,8 +397,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "concierto|AUDIO|https://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTO.mp3|https://envivo.concierto.cl/": {
    "ok": true,
@@ -407,8 +407,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "contivision|RUDO|https://rudo.video/live/cm|https://www.contivision.cl/": {
    "ok": true,
@@ -417,8 +417,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "contivision|WEB|https://www.contivision.cl/|https://www.contivision.cl/": {
    "ok": true,
@@ -427,8 +427,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "cooperativa|HLS|https://redirector.rudo.video/hls-audio/db2df219c84229238d39f8af445c586c/cooperativa/cooperativa.smil/playlist.m3u8|https://www.cooperativa.cl/": {
    "ok": true,
@@ -457,8 +457,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "decimatv|WEB|https://www.decimatv.cl/|https://www.decimatv.cl/": {
    "ok": true,
@@ -467,8 +467,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "duna|AUDIO|https://mdstrm.com/audio/67f42f96e464d19a6eda3c7d/icecast.audio|https://duna.cl/": {
    "ok": true,
@@ -477,8 +477,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "duna|HLS|https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8|https://duna.cl/": {
    "ok": true,
@@ -487,8 +487,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "dw-en|HLS|https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8|https://www.dw.com/": {
    "ok": true,
@@ -497,8 +497,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "dw-en|WEB|https://www.dw.com/en/live-tv/channel-english|https://www.dw.com/": {
    "ok": true,
@@ -507,8 +507,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "dw-es|HLS|https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8|https://www.dw.com/": {
    "ok": true,
@@ -517,8 +517,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "dw-es|WEB|https://www.dw.com/es/live-tv/channel-spanish|https://www.dw.com/": {
    "ok": true,
@@ -527,8 +527,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "ecuadortv|HLS|https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8|https://www.ecuadortv.ec/": {
    "ok": true,
@@ -537,8 +537,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "ecuadortv|WEB|https://www.ecuadortv.ec/en-vivo|https://www.ecuadortv.ec/": {
    "ok": true,
@@ -547,8 +547,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "f24-en|HLS|https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8|https://www.france24.com/": {
    "ok": true,
@@ -557,8 +557,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "f24-en|WEB|https://www.france24.com/en/live|https://www.france24.com/": {
    "ok": false,
@@ -577,8 +577,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "f24-es|WEB|https://www.france24.com/es/en-vivo|https://www.france24.com/": {
    "ok": false,
@@ -597,8 +597,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "futuro|AUDIO|https://playerservices.streamtheworld.com/api/livestream-redirect/FUTURO.mp3|https://envivo.futuro.cl/": {
    "ok": true,
@@ -607,8 +607,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "holvoet|RUDO|https://rudo.video/live/holvoettv|https://holvoet.cl/": {
    "ok": true,
@@ -617,8 +617,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "holvoet|WEB|https://holvoet.cl/|https://holvoet.cl/": {
    "ok": true,
@@ -627,8 +627,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "infinita|AUDIO|https://mdstrm.com/audio/639b791cea22540890cd1d8b/icecast.audio|https://www.infinita.cl/": {
    "ok": true,
@@ -637,8 +637,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "infinita|HLS|https://mdstrm.com/live-stream-playlist/63a066e54ed536087960b550.m3u8|https://www.infinita.cl/": {
    "ok": true,
@@ -657,8 +657,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "iquiquetv|WEB|https://iquiquetv.cl/senal-online/|https://iquiquetv.cl/": {
    "ok": true,
@@ -667,8 +667,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "itv|RUDO|https://rudo.video/live/itv|https://www.itvpatagonia.com/": {
    "ok": true,
@@ -677,8 +677,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "itv|WEB|https://www.itvpatagonia.com/senal-en-vivo/|https://www.itvpatagonia.com/": {
    "ok": true,
@@ -687,8 +687,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "lared|HLS|https://ddycmnicl95kp.cloudfront.net/live/xmw27slnrnv8/master.m3u8|https://www.lared.cl/": {
    "ok": true,
@@ -697,8 +697,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "lared|WEB|https://www.lared.cl/senal-online|https://www.lared.cl/": {
    "ok": true,
@@ -707,8 +707,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "maray|AUDIO|https://video.mediawebchile.com/stream/8212/stream|https://www.maray.cl/": {
    "ok": true,
@@ -717,8 +717,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "maray|HLS|https://5eaccbab48461.streamlock.net:1936/8242/ngrp:8242_all/playlist.m3u8|https://www.maray.cl/": {
    "ok": true,
@@ -727,8 +727,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "mega|MEGA|https://www.meganoticias.cl/senal-en-vivo/mega/|https://www.mega.cl/": {
    "ok": true,
@@ -747,8 +747,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "mega|WEB|https://www.meganoticias.cl/senal-en-vivo/mega/|https://www.meganoticias.cl/": {
    "ok": true,
@@ -757,8 +757,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "mn|MEGA|https://www.meganoticias.cl/senal-en-vivo/meganoticias|https://www.mega.cl/": {
    "ok": true,
@@ -767,8 +767,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "mn|WEB|https://www.mega.cl/senal-en-vivo/meganoticias/|https://www.mega.cl/": {
    "ok": true,
@@ -777,8 +777,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "mn|WEB|https://www.meganoticias.cl/senal-en-vivo/meganoticias|https://www.meganoticias.cl/": {
    "ok": true,
@@ -787,8 +787,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "nhk|HLS|https://masterpl.hls.nhkworld.jp/hls/w/live/master.m3u8|https://www3.nhk.or.jp/": {
    "ok": true,
@@ -797,8 +797,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "nhk|WEB|https://www3.nhk.or.jp/nhkworld/en/live_tv/|https://www3.nhk.or.jp/": {
    "ok": true,
@@ -807,8 +807,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "ntv|HLS|https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8|https://www.tvn.cl/": {
    "ok": true,
@@ -827,8 +827,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "paraguaytv|HLS|https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8|https://mediosdelestado.gov.py/": {
    "ok": true,
@@ -837,8 +837,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "paraguaytv|WEB|https://mediosdelestado.gov.py/en-vivo/|https://mediosdelestado.gov.py/": {
    "ok": true,
@@ -847,8 +847,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "pauta|AUDIO|https://redirector.dps.live/radiopauta/aac/icecast.audio|https://www.pauta.cl/": {
    "ok": true,
@@ -857,8 +857,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "pauta|RUDO|https://rudo.video/live/pautatv|https://www.pauta.cl/": {
    "ok": true,
@@ -874,11 +874,11 @@
    "ok": true,
    "paso": "segmento",
    "http": null,
-   "detalle": "",
-   "intermitente": false,
+   "detalle": "Intermitente: el primer intento falló en segmento ( TimeoutError: The read operation timed out)",
+   "intermitente": true,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "pinguino|WEB|https://www.elpinguino.com/senal-online/|https://www.elpinguino.com/": {
    "ok": true,
@@ -887,8 +887,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "polar|AUDIO|https://radiopolar.giize.com/listen/radio_polar/radio.mp3|https://www.radiopolar.com/": {
    "ok": true,
@@ -897,8 +897,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "polar|HLS|https://polartv.webredirect.org/memfs/319ac83c-e602-4e91-8104-2b5501380b5e.m3u8|https://www.radiopolar.com/": {
    "ok": true,
@@ -907,8 +907,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "pudahuel|AUDIO|https://playerservices.streamtheworld.com/api/livestream-redirect/PUDAHUEL.mp3|https://envivo.pudahuel.cl/": {
    "ok": true,
@@ -917,8 +917,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "quellon|RUDO|https://rudo.video/live/tvquellon|https://www.canal2quellon.cl/": {
    "ok": true,
@@ -927,8 +927,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "quellon|WEB|https://www.canal2quellon.cl/|https://www.canal2quellon.cl/": {
    "ok": true,
@@ -937,8 +937,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "radiosol|AUDIO|https://us9.maindigitalstream.com/ssl/7389|https://radiosol.cl/": {
    "ok": true,
@@ -947,8 +947,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "rockandpop|AUDIO|https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_AND_POP.mp3|https://www.rockandpop.cl/": {
    "ok": true,
@@ -957,8 +957,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "rtve24|HLS|https://ztnr.rtve.es/ztnr/1694255.m3u8|https://www.rtve.es/": {
    "ok": true,
@@ -967,8 +967,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "rtve24|WEB|https://www.rtve.es/play/videos/directo/canales-lineales/24h/|https://www.rtve.es/": {
    "ok": true,
@@ -977,8 +977,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "senado|HLS|https://janux-tv.senado.cl/playlist/stream.m3u8|https://tv.senado.cl/": {
    "ok": true,
@@ -987,8 +987,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "senado|WEB|https://tv.senado.cl/|https://tv.senado.cl/": {
    "ok": true,
@@ -997,8 +997,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "senalcolombia|HLS|https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8|https://www.rtvcplay.co/": {
    "ok": true,
@@ -1007,8 +1007,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "senalcolombia|WEB|https://www.rtvcplay.co/en-vivo/senal-colombia|https://www.rtvcplay.co/": {
    "ok": true,
@@ -1017,8 +1017,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "skynews|HLS|https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/master.m3u8|https://news.sky.com/": {
    "ok": true,
@@ -1027,8 +1027,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "skynews|WEB|https://news.sky.com/watch-live|https://news.sky.com/": {
    "ok": true,
@@ -1037,8 +1037,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "smtv|RUDO|https://rudo.video/live/smtv|https://www.radiosantamaria.cl/": {
    "ok": true,
@@ -1047,8 +1047,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "smtv|WEB|https://www.radiosantamaria.cl/santa-maria-tv/|https://www.radiosantamaria.cl/": {
    "ok": true,
@@ -1057,8 +1057,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "stv|HLS|https://stv4.janus.cl/playlist/stream.m3u8|https://www.santiagotelevision.cl/": {
    "ok": true,
@@ -1067,8 +1067,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "stv|WEB|https://www.santiagotelevision.cl/|https://www.santiagotelevision.cl/": {
    "ok": true,
@@ -1077,8 +1077,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "t13|RUDO|https://rudo.video/live/t13|https://www.t13.cl/": {
    "ok": true,
@@ -1097,8 +1097,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "tele13radio|AUDIO|https://mdstrm.com/audio/5c915613519bce27671c4caa/icecast.audio|https://tele13radio.cl/": {
    "ok": true,
@@ -1107,8 +1107,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "teleangol|RUDO|https://rudo.video/live/teleangol|https://teleangol.cl/": {
    "ok": true,
@@ -1117,8 +1117,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "teleangol|WEB|https://teleangol.cl/|https://teleangol.cl/": {
    "ok": true,
@@ -1127,8 +1127,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "telesur|HLS|https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8|https://mblive.telesur.ultrabase.net/": {
    "ok": true,
@@ -1137,8 +1137,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "telesur|WEB|https://mblive.telesur.ultrabase.net/|https://mblive.telesur.ultrabase.net/": {
    "ok": true,
@@ -1147,8 +1147,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "thema|HLS|https://pantera1-100gb-cl-movistar.dps.live/thema/thema.smil/playlist.m3u8|https://www.thematelevision.cl/": {
    "ok": true,
@@ -1157,8 +1157,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "thema|WEB|https://www.thematelevision.cl/|https://www.thematelevision.cl/": {
    "ok": true,
@@ -1167,8 +1167,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "tn|HLS|https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8|https://tn.com.ar/": {
    "ok": true,
@@ -1177,8 +1177,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "tn|WEB|https://tn.com.ar/envivo/24hs/|https://tn.com.ar/": {
    "ok": true,
@@ -1187,8 +1187,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "tvchile|HLS|https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8|https://www.tvn.cl/": {
    "ok": true,
@@ -1207,8 +1207,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "tve-int|HLS|https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8|https://www.rtve.es/": {
    "ok": true,
@@ -1217,8 +1217,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "tve-int|WEB|https://www.rtve.es/play/directos/|https://www.rtve.es/": {
    "ok": false,
@@ -1234,11 +1234,11 @@
    "ok": true,
    "paso": "segmento",
    "http": null,
-   "detalle": "",
-   "intermitente": false,
+   "detalle": "Intermitente: el primer intento falló en segmento ( TimeoutError: The read operation timed out)",
+   "intermitente": true,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "tvmas|WEB|https://www.tvmas.tv/page/en-vivo/|https://www.tvmas.tv/": {
    "ok": true,
@@ -1247,8 +1247,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "tvn3|HLS|https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8|https://www.tvn.cl/": {
    "ok": true,
@@ -1257,8 +1257,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "tvn3|WEB|https://www.tvn.cl/tvn3|https://www.tvn.cl/": {
    "ok": true,
@@ -1267,8 +1267,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "tvn|TVN|https://live.tvn.cl/?tvn_subseccion=senal-tvn|https://www.tvn.cl/": {
    "ok": true,
@@ -1287,8 +1287,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "tvn|WEB|https://www.tvn.cl/en-vivo|https://www.tvn.cl/": {
    "ok": true,
@@ -1297,8 +1297,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "tvpublica|HLS|https://g4.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8|https://vmf.edge-apps.net/": {
    "ok": true,
@@ -1307,8 +1307,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "tvpublica|WEB|https://www.canal7.com.ar/vivo|https://www.canal7.com.ar/": {
    "ok": true,
@@ -1317,8 +1317,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "tvr|RUDO|https://rudo.video/live/tvr|https://www.tvr.cl/": {
    "ok": true,
@@ -1327,8 +1327,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "tvr|WEB|https://www.tvr.cl/|https://www.tvr.cl/": {
    "ok": true,
@@ -1337,8 +1337,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "tvuct|RUDO|https://rudo.video/live/uct|https://tvuct.cl/": {
    "ok": true,
@@ -1347,8 +1347,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "tvuct|WEB|https://tvuct.cl/|https://tvuct.cl/": {
    "ok": true,
@@ -1357,8 +1357,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "tvunam|HLS|https://5fc584f3f19c9.streamlock.net/tvunam/videotvunam/playlist.m3u8|https://tv.unam.mx/": {
    "ok": true,
@@ -1367,8 +1367,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "tvunam|WEB|https://tv.unam.mx/en-vivo/|https://tv.unam.mx/": {
    "ok": true,
@@ -1377,8 +1377,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "tvu|RUDO|https://rudo.video/live/tvu|https://www.tvu.cl/": {
    "ok": true,
@@ -1387,8 +1387,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "tvu|WEB|https://www.tvu.cl/vivo|https://www.tvu.cl/": {
    "ok": true,
@@ -1397,8 +1397,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "uchileradio|AUDIO|https://sonic-us.arkeo.cl/8094/;|https://radio.uchile.cl/": {
    "ok": true,
@@ -1407,8 +1407,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "uchiletv|RUDO|https://rudo.video/live/uchiletv|https://tv.uchile.cl/": {
    "ok": true,
@@ -1427,8 +1427,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "ucvtv|RUDO|https://rudo.video/live/ucvtv2|https://ucvtv.cl/": {
    "ok": true,
@@ -1447,8 +1447,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "utalca|RUDO|https://rudo.video/live/campustv|https://tv.utalca.cl/": {
    "ok": true,
@@ -1457,8 +1457,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "utalca|WEB|https://tv.utalca.cl/|https://tv.utalca.cl/": {
    "ok": true,
@@ -1467,8 +1467,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "vtv|RUDO|https://rudo.video/live/vtv|https://www.diariovtv.cl/": {
    "ok": true,
@@ -1477,8 +1477,8 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   },
   "vtv|WEB|https://www.diariovtv.cl/|https://www.diariovtv.cl/": {
    "ok": true,
@@ -1487,14 +1487,14 @@
    "detalle": "",
    "intermitente": false,
    "bloqueo_pais": false,
-   "fecha": "2026-11-11T02:05:06+00:00",
-   "lugar": "Chile"
+   "fecha": "2026-11-11T02:24:38+00:00",
+   "lugar": "GitHub Actions (EE. UU.)"
   }
  },
  "ultima_verificacion": {
-  "fecha": "2026-11-11T02:05:06+00:00",
-  "origen": "chile",
-  "lugar": "Chile",
-  "fuentes_actualizadas": 149
+  "fecha": "2026-11-11T02:24:38+00:00",
+  "origen": "externo",
+  "lugar": "GitHub Actions (EE. UU.)",
+  "fuentes_actualizadas": 130
  }
 }
