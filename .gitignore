@@ -1,0 +1,10 @@
+# Este repositorio solo publica datos. Todo lo demás queda fuera por defecto.
+/*
+!/.gitignore
+!/README.md
+!/catalogo.json
+!/catalogo.json.sig
+!/estado.json
+!/logos/
+/logos/*
+!/logos/*.png

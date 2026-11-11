@@ -1,0 +1,2201 @@
+{
+ "version": 5,
+ "updated": "2026-11-10",
+ "update_url": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/catalogo.json",
+ "sections": [
+  {
+   "id": "nacional",
+   "name": "Nacional"
+  },
+  {
+   "id": "mas",
+   "name": "Más Chile"
+  },
+  {
+   "id": "regional",
+   "name": "Regionales"
+  },
+  {
+   "id": "internacional",
+   "name": "Internacional"
+  },
+  {
+   "id": "radio",
+   "name": "Radios"
+  }
+ ],
+ "channels": [
+  {
+   "id": "13",
+   "number": 1,
+   "section": "nacional",
+   "name": "Canal 13",
+   "subtitle": "Entretención, actualidad y cultura",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/13.png",
+   "website": "https://www.13.cl/en-vivo",
+   "sources": [
+    {
+     "name": "Señal IPTV de Canal 13",
+     "kind": "RUDO",
+     "url": "https://rudo.video/live/c13",
+     "referer": "https://www.13.cl/",
+     "family": "dps",
+     "automatic": true
+    },
+    {
+     "name": "Reproductor oficial del 13",
+     "kind": "WEB",
+     "url": "https://rudo.video/live/c13?autostart=1&unmute=1",
+     "referer": "https://www.13.cl/",
+     "family": "dps",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial del 13",
+     "kind": "WEB",
+     "url": "https://www.13.cl/en-vivo",
+     "referer": "https://www.13.cl/",
+     "family": "dps",
+     "automatic": true
+    },
+    {
+     "name": "Directos del canal en YouTube",
+     "kind": "YOUTUBE",
+     "url": "https://www.youtube.com/@el13chile/live",
+     "referer": "",
+     "family": "youtube",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "mega",
+   "number": 2,
+   "section": "nacional",
+   "name": "Mega",
+   "subtitle": "Teleseries y programación nacional",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/mega.png",
+   "website": "https://www.mega.cl/senal-en-vivo/",
+   "sources": [
+    {
+     "name": "Señal IPTV de Mega",
+     "kind": "MEGA",
+     "url": "https://www.meganoticias.cl/senal-en-vivo/mega/",
+     "referer": "https://www.mega.cl/",
+     "family": "mediastream",
+     "automatic": true
+    },
+    {
+     "name": "Reproductor oficial de Mega",
+     "kind": "WEB",
+     "url": "https://www.mega.cl/senal-en-vivo/",
+     "referer": "https://www.mega.cl/",
+     "family": "mediastream",
+     "automatic": true
+    },
+    {
+     "name": "Mega desde Meganoticias",
+     "kind": "WEB",
+     "url": "https://www.meganoticias.cl/senal-en-vivo/mega/",
+     "referer": "https://www.meganoticias.cl/",
+     "family": "mediastream",
+     "automatic": true
+    },
+    {
+     "name": "Abrir Mega GO",
+     "kind": "APP",
+     "url": "cl.megamedia.megago",
+     "referer": "",
+     "family": "megago",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "chv",
+   "number": 3,
+   "section": "nacional",
+   "name": "Chilevisión",
+   "subtitle": "Programas, conversación y entretención",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/chv.png",
+   "website": "https://www.chilevision.cl/senal-online/",
+   "sources": [
+    {
+     "name": "Señal IPTV de Chilevisión",
+     "kind": "RUDO",
+     "url": "https://rudo.video/live/chv",
+     "referer": "https://www.chilevision.cl/",
+     "family": "dps",
+     "automatic": true
+    },
+    {
+     "name": "Reproductor oficial de CHV",
+     "kind": "WEB",
+     "url": "https://rudo.video/live/chv?autostart=1&unmute=1",
+     "referer": "https://www.chilevision.cl/",
+     "family": "dps",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de Chilevisión",
+     "kind": "WEB",
+     "url": "https://www.chilevision.cl/senal-online/",
+     "referer": "https://www.chilevision.cl/",
+     "family": "dps",
+     "automatic": true
+    },
+    {
+     "name": "Directos del canal en YouTube",
+     "kind": "YOUTUBE",
+     "url": "https://www.youtube.com/@chilevision/live",
+     "referer": "",
+     "family": "youtube",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "tvn",
+   "number": 4,
+   "section": "nacional",
+   "name": "TVN",
+   "subtitle": "Televisión Nacional de Chile",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/tvn.png",
+   "website": "https://www.tvn.cl/en-vivo",
+   "sources": [
+    {
+     "name": "Señal IPTV de TVN",
+     "kind": "TVN",
+     "url": "https://live.tvn.cl/?tvn_subseccion=senal-tvn",
+     "referer": "https://www.tvn.cl/",
+     "family": "mediastream",
+     "automatic": true
+    },
+    {
+     "name": "Reproductor oficial de TVN",
+     "kind": "WEB",
+     "url": "https://live.tvn.cl/?tvn_subseccion=senal-tvn",
+     "referer": "https://www.tvn.cl/",
+     "family": "mediastream",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de TVN",
+     "kind": "WEB",
+     "url": "https://www.tvn.cl/en-vivo",
+     "referer": "https://www.tvn.cl/",
+     "family": "mediastream",
+     "automatic": true
+    }
+   ]
+  },
+  {
+   "id": "t13",
+   "number": 5,
+   "section": "nacional",
+   "name": "T13 En Vivo",
+   "subtitle": "Actualidad nacional e internacional",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/t13.png",
+   "website": "https://www.t13.cl/en-vivo",
+   "sources": [
+    {
+     "name": "Señal IPTV de T13",
+     "kind": "RUDO",
+     "url": "https://rudo.video/live/t13",
+     "referer": "https://www.t13.cl/",
+     "family": "dps",
+     "automatic": true
+    },
+    {
+     "name": "Reproductor oficial de T13",
+     "kind": "WEB",
+     "url": "https://rudo.video/live/t13?autostart=1&unmute=1",
+     "referer": "https://www.t13.cl/",
+     "family": "dps",
+     "automatic": true
+    },
+    {
+     "name": "Directos del canal en YouTube",
+     "kind": "YOUTUBE",
+     "url": "https://www.youtube.com/@T13_cl/live",
+     "referer": "",
+     "family": "youtube",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "mn",
+   "number": 6,
+   "section": "nacional",
+   "name": "Meganoticias Ahora",
+   "subtitle": "Información de Chile las 24 horas",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/mn.png",
+   "website": "https://www.meganoticias.cl/senal-en-vivo/meganoticias",
+   "sources": [
+    {
+     "name": "Señal IPTV de Meganoticias",
+     "kind": "MEGA",
+     "url": "https://www.meganoticias.cl/senal-en-vivo/meganoticias",
+     "referer": "https://www.mega.cl/",
+     "family": "mediastream",
+     "automatic": true
+    },
+    {
+     "name": "Reproductor oficial de Meganoticias",
+     "kind": "WEB",
+     "url": "https://www.meganoticias.cl/senal-en-vivo/meganoticias",
+     "referer": "https://www.meganoticias.cl/",
+     "family": "mediastream",
+     "automatic": true
+    },
+    {
+     "name": "Meganoticias desde Mega",
+     "kind": "WEB",
+     "url": "https://www.mega.cl/senal-en-vivo/meganoticias/",
+     "referer": "https://www.mega.cl/",
+     "family": "mediastream",
+     "automatic": true
+    },
+    {
+     "name": "Directos del canal en YouTube",
+     "kind": "YOUTUBE",
+     "url": "https://www.youtube.com/@meganoticiasoficial/live",
+     "referer": "",
+     "family": "youtube",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "chvn",
+   "number": 7,
+   "section": "nacional",
+   "name": "CHV Noticias",
+   "subtitle": "Noticias y coberturas en directo",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/chvn.png",
+   "website": "https://www.chilevision.cl/noticias/senal-online",
+   "sources": [
+    {
+     "name": "Señal IPTV de CHV Noticias",
+     "kind": "RUDO",
+     "url": "https://rudo.video/live/chvn",
+     "referer": "https://www.chilevision.cl/",
+     "family": "dps",
+     "automatic": true
+    },
+    {
+     "name": "Reproductor oficial de CHV Noticias",
+     "kind": "WEB",
+     "url": "https://rudo.video/live/chvn?autostart=1&unmute=1",
+     "referer": "https://www.chilevision.cl/",
+     "family": "dps",
+     "automatic": true
+    },
+    {
+     "name": "Directos del canal en YouTube",
+     "kind": "YOUTUBE",
+     "url": "https://www.youtube.com/@chilevision/live",
+     "referer": "",
+     "family": "youtube",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "24",
+   "number": 8,
+   "section": "nacional",
+   "name": "24 Play",
+   "subtitle": "La señal digital de 24 Horas · TVN",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/24.png",
+   "website": "https://www.24horas.cl/envivo",
+   "sources": [
+    {
+     "name": "Señal IPTV de 24 Play",
+     "kind": "HLS",
+     "url": "https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8",
+     "referer": "https://www.24horas.cl/",
+     "family": "mediastream",
+     "automatic": true
+    },
+    {
+     "name": "Reproductor oficial de 24 Play",
+     "kind": "WEB",
+     "url": "https://www.24horas.cl/envivo",
+     "referer": "https://www.24horas.cl/",
+     "family": "mediastream",
+     "automatic": true
+    },
+    {
+     "name": "Directos del canal en YouTube",
+     "kind": "YOUTUBE",
+     "url": "https://www.youtube.com/user/24horas/live",
+     "referer": "",
+     "family": "youtube",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "ntv",
+   "number": 10,
+   "section": "mas",
+   "name": "NTV",
+   "subtitle": "Cultura e infantil · TVN",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/ntv.png",
+   "website": "https://www.tvn.cl/senal-ntv",
+   "sources": [
+    {
+     "name": "Señal IPTV de NTV",
+     "kind": "HLS",
+     "url": "https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8",
+     "referer": "https://www.tvn.cl/",
+     "family": "",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de NTV",
+     "kind": "WEB",
+     "url": "https://www.tvn.cl/senal-ntv",
+     "referer": "https://www.tvn.cl/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "senado",
+   "number": 11,
+   "section": "mas",
+   "name": "TV Senado",
+   "subtitle": "Señal del Senado de Chile",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/senado.png",
+   "website": "https://tv.senado.cl/",
+   "sources": [
+    {
+     "name": "Señal IPTV de TV Senado",
+     "kind": "HLS",
+     "url": "https://janux-tv.senado.cl/playlist/stream.m3u8",
+     "referer": "https://tv.senado.cl/",
+     "family": "",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de TV Senado",
+     "kind": "WEB",
+     "url": "https://tv.senado.cl/",
+     "referer": "https://tv.senado.cl/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "lared",
+   "number": 12,
+   "section": "mas",
+   "name": "La Red",
+   "subtitle": "Señal abierta nacional",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/lared.png",
+   "website": "https://www.lared.cl/senal-online",
+   "sources": [
+    {
+     "name": "Señal IPTV de La Red",
+     "kind": "HLS",
+     "url": "https://ddycmnicl95kp.cloudfront.net/live/xmw27slnrnv8/master.m3u8",
+     "referer": "https://www.lared.cl/",
+     "family": "",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de La Red",
+     "kind": "WEB",
+     "url": "https://www.lared.cl/senal-online",
+     "referer": "https://www.lared.cl/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "tvmas",
+   "number": 13,
+   "section": "mas",
+   "name": "TV+",
+   "subtitle": "Señal abierta nacional",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/tvmas.png",
+   "website": "https://www.tvmas.tv/page/en-vivo/",
+   "sources": [
+    {
+     "name": "Señal IPTV de TV+",
+     "kind": "RUDO",
+     "url": "https://rudo.video/live/tvmas",
+     "referer": "https://www.tvmas.tv/",
+     "family": "dps",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de TV+",
+     "kind": "WEB",
+     "url": "https://www.tvmas.tv/page/en-vivo/",
+     "referer": "https://www.tvmas.tv/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "tvn3",
+   "number": 14,
+   "section": "mas",
+   "name": "TVN 3",
+   "subtitle": "Señal digital de TVN",
+   "radio": false,
+   "logo": "",
+   "website": "https://www.tvn.cl/tvn3",
+   "sources": [
+    {
+     "name": "Señal IPTV de TVN 3",
+     "kind": "HLS",
+     "url": "https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8",
+     "referer": "https://www.tvn.cl/",
+     "family": "",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de TVN 3",
+     "kind": "WEB",
+     "url": "https://www.tvn.cl/tvn3",
+     "referer": "https://www.tvn.cl/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "tvchile",
+   "number": 15,
+   "section": "mas",
+   "name": "TV Chile",
+   "subtitle": "Señal internacional de TVN",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/tvchile.png",
+   "website": "https://www.tvn.cl/tvchile",
+   "sources": [
+    {
+     "name": "Señal IPTV de TV Chile",
+     "kind": "HLS",
+     "url": "https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8",
+     "referer": "https://www.tvn.cl/",
+     "family": "",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de TV Chile",
+     "kind": "WEB",
+     "url": "https://www.tvn.cl/tvchile",
+     "referer": "https://www.tvn.cl/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "bbtv",
+   "number": 16,
+   "section": "mas",
+   "name": "Bío Bío TV",
+   "subtitle": "Noticias y actualidad",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/bbtv.png",
+   "website": "https://www.biobiochile.cl/biobiotv/",
+   "sources": [
+    {
+     "name": "Señal IPTV de Bío Bío TV",
+     "kind": "RUDO",
+     "url": "https://rudo.video/live/bbtv",
+     "referer": "https://www.biobiochile.cl/",
+     "family": "dps",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de Bío Bío TV",
+     "kind": "WEB",
+     "url": "https://www.biobiochile.cl/biobiotv/",
+     "referer": "https://www.biobiochile.cl/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "uchiletv",
+   "number": 17,
+   "section": "mas",
+   "name": "UChile TV",
+   "subtitle": "Universidad de Chile",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/uchiletv.png",
+   "website": "https://tv.uchile.cl/",
+   "sources": [
+    {
+     "name": "Señal IPTV de UChile TV",
+     "kind": "RUDO",
+     "url": "https://rudo.video/live/uchiletv",
+     "referer": "https://tv.uchile.cl/",
+     "family": "dps",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de UChile TV",
+     "kind": "WEB",
+     "url": "https://tv.uchile.cl/",
+     "referer": "https://tv.uchile.cl/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "stv",
+   "number": 18,
+   "section": "mas",
+   "name": "Santiago TV",
+   "subtitle": "Universidad de Santiago",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/stv.png",
+   "website": "https://www.santiagotelevision.cl/",
+   "sources": [
+    {
+     "name": "Señal IPTV de Santiago TV",
+     "kind": "HLS",
+     "url": "https://stv4.janus.cl/playlist/stream.m3u8",
+     "referer": "https://www.santiagotelevision.cl/",
+     "family": "",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de Santiago TV",
+     "kind": "WEB",
+     "url": "https://www.santiagotelevision.cl/",
+     "referer": "https://www.santiagotelevision.cl/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "ucvtv",
+   "number": 19,
+   "section": "mas",
+   "name": "UCV TV",
+   "subtitle": "Universidad Católica de Valparaíso",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/ucvtv.png",
+   "website": "https://ucvtv.cl/",
+   "sources": [
+    {
+     "name": "Señal IPTV de UCV TV",
+     "kind": "RUDO",
+     "url": "https://rudo.video/live/ucvtv2",
+     "referer": "https://ucvtv.cl/",
+     "family": "dps",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de UCV TV",
+     "kind": "WEB",
+     "url": "https://ucvtv.cl/",
+     "referer": "https://ucvtv.cl/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "iquiquetv",
+   "number": 20,
+   "section": "regional",
+   "name": "Iquique TV",
+   "subtitle": "Tarapacá",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/iquiquetv.png",
+   "website": "https://iquiquetv.cl/senal-online/",
+   "sources": [
+    {
+     "name": "Señal IPTV de Iquique TV",
+     "kind": "HLS",
+     "url": "https://origin.skarnetchile.com:8081/iquiquetv-hd/index.m3u8",
+     "referer": "https://iquiquetv.cl/",
+     "family": "",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de Iquique TV",
+     "kind": "WEB",
+     "url": "https://iquiquetv.cl/senal-online/",
+     "referer": "https://iquiquetv.cl/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "atv",
+   "number": 21,
+   "section": "regional",
+   "name": "Antofagasta TV",
+   "subtitle": "Antofagasta",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/atv.png",
+   "website": "https://www.antofagasta.tv/",
+   "sources": [
+    {
+     "name": "Señal IPTV de Antofagasta TV",
+     "kind": "HLS",
+     "url": "https://redirector.dps.live/hls/atv/playlist.m3u8",
+     "referer": "https://www.antofagasta.tv/",
+     "family": "",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de Antofagasta TV",
+     "kind": "WEB",
+     "url": "https://www.antofagasta.tv/",
+     "referer": "https://www.antofagasta.tv/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "holvoet",
+   "number": 22,
+   "section": "regional",
+   "name": "Holvoet TV",
+   "subtitle": "Atacama",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/holvoet.png",
+   "website": "https://holvoet.cl/",
+   "sources": [
+    {
+     "name": "Señal IPTV de Holvoet TV",
+     "kind": "RUDO",
+     "url": "https://rudo.video/live/holvoettv",
+     "referer": "https://holvoet.cl/",
+     "family": "dps",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de Holvoet TV",
+     "kind": "WEB",
+     "url": "https://holvoet.cl/",
+     "referer": "https://holvoet.cl/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "thema",
+   "number": 23,
+   "section": "regional",
+   "name": "Thema TV",
+   "subtitle": "Coquimbo",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/thema.png",
+   "website": "https://www.thematelevision.cl/",
+   "sources": [
+    {
+     "name": "Señal IPTV de Thema TV",
+     "kind": "HLS",
+     "url": "https://pantera1-100gb-cl-movistar.dps.live/thema/thema.smil/playlist.m3u8",
+     "referer": "https://www.thematelevision.cl/",
+     "family": "",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de Thema TV",
+     "kind": "WEB",
+     "url": "https://www.thematelevision.cl/",
+     "referer": "https://www.thematelevision.cl/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "tvr",
+   "number": 24,
+   "section": "regional",
+   "name": "TVR",
+   "subtitle": "Coquimbo",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/tvr.png",
+   "website": "https://www.tvr.cl/",
+   "sources": [
+    {
+     "name": "Señal IPTV de TVR",
+     "kind": "RUDO",
+     "url": "https://rudo.video/live/tvr",
+     "referer": "https://www.tvr.cl/",
+     "family": "dps",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de TVR",
+     "kind": "WEB",
+     "url": "https://www.tvr.cl/",
+     "referer": "https://www.tvr.cl/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "vtv",
+   "number": 25,
+   "section": "regional",
+   "name": "VTV Aconcagua",
+   "subtitle": "Valparaíso",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/vtv.png",
+   "website": "https://www.diariovtv.cl/",
+   "sources": [
+    {
+     "name": "Señal IPTV de VTV Aconcagua",
+     "kind": "RUDO",
+     "url": "https://rudo.video/live/vtv",
+     "referer": "https://www.diariovtv.cl/",
+     "family": "dps",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de VTV Aconcagua",
+     "kind": "WEB",
+     "url": "https://www.diariovtv.cl/",
+     "referer": "https://www.diariovtv.cl/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "canal2sa",
+   "number": 26,
+   "section": "regional",
+   "name": "Canal 2 San Antonio",
+   "subtitle": "Valparaíso",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/canal2sa.png",
+   "website": "https://cablenoticias.cl/",
+   "sources": [
+    {
+     "name": "Señal IPTV de Canal 2 San Antonio",
+     "kind": "RUDO",
+     "url": "https://rudo.video/live/canal2",
+     "referer": "https://cablenoticias.cl/",
+     "family": "dps",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de Canal 2 San Antonio",
+     "kind": "WEB",
+     "url": "https://cablenoticias.cl/",
+     "referer": "https://cablenoticias.cl/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "utalca",
+   "number": 27,
+   "section": "regional",
+   "name": "UTalca TV",
+   "subtitle": "Maule",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/utalca.png",
+   "website": "https://tv.utalca.cl/",
+   "sources": [
+    {
+     "name": "Señal IPTV de UTalca TV",
+     "kind": "RUDO",
+     "url": "https://rudo.video/live/campustv",
+     "referer": "https://tv.utalca.cl/",
+     "family": "dps",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de UTalca TV",
+     "kind": "WEB",
+     "url": "https://tv.utalca.cl/",
+     "referer": "https://tv.utalca.cl/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "contivision",
+   "number": 28,
+   "section": "regional",
+   "name": "Contivisión",
+   "subtitle": "Maule",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/contivision.png",
+   "website": "https://www.contivision.cl/",
+   "sources": [
+    {
+     "name": "Señal IPTV de Contivisión",
+     "kind": "RUDO",
+     "url": "https://rudo.video/live/cm",
+     "referer": "https://www.contivision.cl/",
+     "family": "dps",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de Contivisión",
+     "kind": "WEB",
+     "url": "https://www.contivision.cl/",
+     "referer": "https://www.contivision.cl/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "canal9",
+   "number": 29,
+   "section": "regional",
+   "name": "Canal 9 Bío-Bío",
+   "subtitle": "Biobío",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/canal9.png",
+   "website": "https://www.canal9.cl/",
+   "sources": [
+    {
+     "name": "Señal IPTV de Canal 9 Bío-Bío",
+     "kind": "RUDO",
+     "url": "https://rudo.video/live/c9",
+     "referer": "https://www.canal9.cl/",
+     "family": "dps",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de Canal 9 Bío-Bío",
+     "kind": "WEB",
+     "url": "https://www.canal9.cl/",
+     "referer": "https://www.canal9.cl/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "tvu",
+   "number": 30,
+   "section": "regional",
+   "name": "TVU",
+   "subtitle": "Biobío",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/tvu.png",
+   "website": "https://www.tvu.cl/vivo",
+   "sources": [
+    {
+     "name": "Señal IPTV de TVU",
+     "kind": "RUDO",
+     "url": "https://rudo.video/live/tvu",
+     "referer": "https://www.tvu.cl/",
+     "family": "dps",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de TVU",
+     "kind": "WEB",
+     "url": "https://www.tvu.cl/vivo",
+     "referer": "https://www.tvu.cl/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "tvuct",
+   "number": 31,
+   "section": "regional",
+   "name": "TV UCT",
+   "subtitle": "La Araucanía",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/tvuct.png",
+   "website": "https://tvuct.cl/",
+   "sources": [
+    {
+     "name": "Señal IPTV de TV UCT",
+     "kind": "RUDO",
+     "url": "https://rudo.video/live/uct",
+     "referer": "https://tvuct.cl/",
+     "family": "dps",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de TV UCT",
+     "kind": "WEB",
+     "url": "https://tvuct.cl/",
+     "referer": "https://tvuct.cl/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "teleangol",
+   "number": 32,
+   "section": "regional",
+   "name": "Teleangol",
+   "subtitle": "La Araucanía",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/teleangol.png",
+   "website": "https://teleangol.cl/",
+   "sources": [
+    {
+     "name": "Señal IPTV de Teleangol",
+     "kind": "RUDO",
+     "url": "https://rudo.video/live/teleangol",
+     "referer": "https://teleangol.cl/",
+     "family": "dps",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de Teleangol",
+     "kind": "WEB",
+     "url": "https://teleangol.cl/",
+     "referer": "https://teleangol.cl/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "decimatv",
+   "number": 33,
+   "section": "regional",
+   "name": "Décima TV",
+   "subtitle": "Los Lagos",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/decimatv.png",
+   "website": "https://www.decimatv.cl/",
+   "sources": [
+    {
+     "name": "Señal IPTV de Décima TV",
+     "kind": "HLS",
+     "url": "https://unlimited6-cl.dps.live/decimatv/decimatv.smil/playlist.m3u8",
+     "referer": "https://www.decimatv.cl/",
+     "family": "",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de Décima TV",
+     "kind": "WEB",
+     "url": "https://www.decimatv.cl/",
+     "referer": "https://www.decimatv.cl/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "quellon",
+   "number": 34,
+   "section": "regional",
+   "name": "Canal 2 Quellón",
+   "subtitle": "Los Lagos",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/quellon.png",
+   "website": "https://www.canal2quellon.cl/",
+   "sources": [
+    {
+     "name": "Señal IPTV de Canal 2 Quellón",
+     "kind": "RUDO",
+     "url": "https://rudo.video/live/tvquellon",
+     "referer": "https://www.canal2quellon.cl/",
+     "family": "dps",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de Canal 2 Quellón",
+     "kind": "WEB",
+     "url": "https://www.canal2quellon.cl/",
+     "referer": "https://www.canal2quellon.cl/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "smtv",
+   "number": 35,
+   "section": "regional",
+   "name": "Santa María TV",
+   "subtitle": "Aysén",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/smtv.png",
+   "website": "https://www.radiosantamaria.cl/santa-maria-tv/",
+   "sources": [
+    {
+     "name": "Señal IPTV de Santa María TV",
+     "kind": "RUDO",
+     "url": "https://rudo.video/live/smtv",
+     "referer": "https://www.radiosantamaria.cl/",
+     "family": "dps",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de Santa María TV",
+     "kind": "WEB",
+     "url": "https://www.radiosantamaria.cl/santa-maria-tv/",
+     "referer": "https://www.radiosantamaria.cl/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "itv",
+   "number": 36,
+   "section": "regional",
+   "name": "ITV Patagonia",
+   "subtitle": "Magallanes",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/itv.png",
+   "website": "https://www.itvpatagonia.com/senal-en-vivo/",
+   "sources": [
+    {
+     "name": "Señal IPTV de ITV Patagonia",
+     "kind": "RUDO",
+     "url": "https://rudo.video/live/itv",
+     "referer": "https://www.itvpatagonia.com/",
+     "family": "dps",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de ITV Patagonia",
+     "kind": "WEB",
+     "url": "https://www.itvpatagonia.com/senal-en-vivo/",
+     "referer": "https://www.itvpatagonia.com/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "pinguino",
+   "number": 37,
+   "section": "regional",
+   "name": "Pingüino TV",
+   "subtitle": "Magallanes",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/pinguino.png",
+   "website": "https://www.elpinguino.com/senal-online/",
+   "sources": [
+    {
+     "name": "Señal IPTV de Pingüino TV",
+     "kind": "RUDO",
+     "url": "https://rudo.video/live/pinguinotv",
+     "referer": "https://www.elpinguino.com/",
+     "family": "dps",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de Pingüino TV",
+     "kind": "WEB",
+     "url": "https://www.elpinguino.com/senal-online/",
+     "referer": "https://www.elpinguino.com/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "dw-es",
+   "number": 100,
+   "section": "internacional",
+   "name": "DW Español",
+   "subtitle": "Alemania · español",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/dw-es.png",
+   "website": "https://www.dw.com/es/live-tv/channel-spanish",
+   "sources": [
+    {
+     "name": "Señal en vivo de DW Español",
+     "kind": "HLS",
+     "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8",
+     "referer": "https://www.dw.com/",
+     "family": "",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de DW Español",
+     "kind": "WEB",
+     "url": "https://www.dw.com/es/live-tv/channel-spanish",
+     "referer": "https://www.dw.com/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "f24-es",
+   "number": 101,
+   "section": "internacional",
+   "name": "France 24 Español",
+   "subtitle": "Francia · español",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/f24-es.png",
+   "website": "https://www.france24.com/es/en-vivo",
+   "sources": [
+    {
+     "name": "Señal en vivo de France 24 Español",
+     "kind": "HLS",
+     "url": "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8",
+     "referer": "https://www.france24.com/",
+     "family": "",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de France 24 Español",
+     "kind": "WEB",
+     "url": "https://www.france24.com/es/en-vivo",
+     "referer": "https://www.france24.com/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "rtve24",
+   "number": 102,
+   "section": "internacional",
+   "name": "Canal 24 Horas",
+   "subtitle": "España · español",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/rtve24.png",
+   "website": "https://www.rtve.es/play/videos/directo/canales-lineales/24h/",
+   "sources": [
+    {
+     "name": "Señal en vivo de Canal 24 Horas",
+     "kind": "HLS",
+     "url": "https://ztnr.rtve.es/ztnr/1694255.m3u8",
+     "referer": "https://www.rtve.es/",
+     "family": "",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de Canal 24 Horas",
+     "kind": "WEB",
+     "url": "https://www.rtve.es/play/videos/directo/canales-lineales/24h/",
+     "referer": "https://www.rtve.es/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "tve-int",
+   "number": 103,
+   "section": "internacional",
+   "name": "TVE Internacional",
+   "subtitle": "España · español",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/tve-int.png",
+   "website": "https://www.rtve.es/play/directos/",
+   "sources": [
+    {
+     "name": "Señal en vivo de TVE Internacional",
+     "kind": "HLS",
+     "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8",
+     "referer": "https://www.rtve.es/",
+     "family": "",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de TVE Internacional",
+     "kind": "WEB",
+     "url": "https://www.rtve.es/play/directos/",
+     "referer": "https://www.rtve.es/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "tvpublica",
+   "number": 104,
+   "section": "internacional",
+   "name": "TV Pública",
+   "subtitle": "Argentina · español",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/tvpublica.png",
+   "website": "https://www.canal7.com.ar/vivo",
+   "sources": [
+    {
+     "name": "Señal en vivo de TV Pública",
+     "kind": "HLS",
+     "url": "https://g4.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8",
+     "referer": "https://vmf.edge-apps.net/",
+     "family": "",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de TV Pública",
+     "kind": "WEB",
+     "url": "https://www.canal7.com.ar/vivo",
+     "referer": "https://www.canal7.com.ar/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "tn",
+   "number": 105,
+   "section": "internacional",
+   "name": "TN",
+   "subtitle": "Argentina · español",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/tn.png",
+   "website": "https://tn.com.ar/envivo/24hs/",
+   "sources": [
+    {
+     "name": "Señal en vivo de TN",
+     "kind": "HLS",
+     "url": "https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8",
+     "referer": "https://tn.com.ar/",
+     "family": "",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de TN",
+     "kind": "WEB",
+     "url": "https://tn.com.ar/envivo/24hs/",
+     "referer": "https://tn.com.ar/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "telesur",
+   "number": 106,
+   "section": "internacional",
+   "name": "teleSUR",
+   "subtitle": "Venezuela · español",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/telesur.png",
+   "website": "https://mblive.telesur.ultrabase.net/",
+   "sources": [
+    {
+     "name": "Señal en vivo de teleSUR",
+     "kind": "HLS",
+     "url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8",
+     "referer": "https://mblive.telesur.ultrabase.net/",
+     "family": "",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de teleSUR",
+     "kind": "WEB",
+     "url": "https://mblive.telesur.ultrabase.net/",
+     "referer": "https://mblive.telesur.ultrabase.net/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "senalcolombia",
+   "number": 107,
+   "section": "internacional",
+   "name": "Señal Colombia",
+   "subtitle": "Colombia · español",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/senalcolombia.png",
+   "website": "https://www.rtvcplay.co/en-vivo/senal-colombia",
+   "sources": [
+    {
+     "name": "Señal en vivo de Señal Colombia",
+     "kind": "HLS",
+     "url": "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8",
+     "referer": "https://www.rtvcplay.co/",
+     "family": "",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de Señal Colombia",
+     "kind": "WEB",
+     "url": "https://www.rtvcplay.co/en-vivo/senal-colombia",
+     "referer": "https://www.rtvcplay.co/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "canalonce",
+   "number": 108,
+   "section": "internacional",
+   "name": "Canal Once",
+   "subtitle": "México · español",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/canalonce.png",
+   "website": "https://canalonce.mx/en-vivo-on-mexico",
+   "sources": [
+    {
+     "name": "Señal en vivo de Canal Once",
+     "kind": "HLS",
+     "url": "https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8",
+     "referer": "https://canalonce.mx/",
+     "family": "",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de Canal Once",
+     "kind": "WEB",
+     "url": "https://canalonce.mx/en-vivo-on-mexico",
+     "referer": "https://canalonce.mx/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "canal22",
+   "number": 109,
+   "section": "internacional",
+   "name": "Canal 22",
+   "subtitle": "México · español",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/canal22.png",
+   "website": "https://www.canal22.org.mx/",
+   "sources": [
+    {
+     "name": "Señal en vivo de Canal 22",
+     "kind": "HLS",
+     "url": "https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8",
+     "referer": "https://www.canal22.org.mx/",
+     "family": "",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de Canal 22",
+     "kind": "WEB",
+     "url": "https://www.canal22.org.mx/",
+     "referer": "https://www.canal22.org.mx/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "tvunam",
+   "number": 110,
+   "section": "internacional",
+   "name": "TV UNAM",
+   "subtitle": "México · español",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/tvunam.png",
+   "website": "https://tv.unam.mx/en-vivo/",
+   "sources": [
+    {
+     "name": "Señal en vivo de TV UNAM",
+     "kind": "HLS",
+     "url": "https://5fc584f3f19c9.streamlock.net/tvunam/videotvunam/playlist.m3u8",
+     "referer": "https://tv.unam.mx/",
+     "family": "",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de TV UNAM",
+     "kind": "WEB",
+     "url": "https://tv.unam.mx/en-vivo/",
+     "referer": "https://tv.unam.mx/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "ecuadortv",
+   "number": 111,
+   "section": "internacional",
+   "name": "Ecuador TV",
+   "subtitle": "Ecuador · español",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/ecuadortv.png",
+   "website": "https://www.ecuadortv.ec/en-vivo",
+   "sources": [
+    {
+     "name": "Señal en vivo de Ecuador TV",
+     "kind": "HLS",
+     "url": "https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8",
+     "referer": "https://www.ecuadortv.ec/",
+     "family": "",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de Ecuador TV",
+     "kind": "WEB",
+     "url": "https://www.ecuadortv.ec/en-vivo",
+     "referer": "https://www.ecuadortv.ec/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "paraguaytv",
+   "number": 112,
+   "section": "internacional",
+   "name": "Paraguay TV",
+   "subtitle": "Paraguay · español",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/paraguaytv.png",
+   "website": "https://mediosdelestado.gov.py/en-vivo/",
+   "sources": [
+    {
+     "name": "Señal en vivo de Paraguay TV",
+     "kind": "HLS",
+     "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8",
+     "referer": "https://mediosdelestado.gov.py/",
+     "family": "",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de Paraguay TV",
+     "kind": "WEB",
+     "url": "https://mediosdelestado.gov.py/en-vivo/",
+     "referer": "https://mediosdelestado.gov.py/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "dw-en",
+   "number": 113,
+   "section": "internacional",
+   "name": "DW English",
+   "subtitle": "Alemania · inglés",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/dw-en.png",
+   "website": "https://www.dw.com/en/live-tv/channel-english",
+   "sources": [
+    {
+     "name": "Señal en vivo de DW English",
+     "kind": "HLS",
+     "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8",
+     "referer": "https://www.dw.com/",
+     "family": "",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de DW English",
+     "kind": "WEB",
+     "url": "https://www.dw.com/en/live-tv/channel-english",
+     "referer": "https://www.dw.com/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "f24-en",
+   "number": 114,
+   "section": "internacional",
+   "name": "France 24 English",
+   "subtitle": "Francia · inglés",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/f24-en.png",
+   "website": "https://www.france24.com/en/live",
+   "sources": [
+    {
+     "name": "Señal en vivo de France 24 English",
+     "kind": "HLS",
+     "url": "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8",
+     "referer": "https://www.france24.com/",
+     "family": "",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de France 24 English",
+     "kind": "WEB",
+     "url": "https://www.france24.com/en/live",
+     "referer": "https://www.france24.com/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "aljazeera",
+   "number": 115,
+   "section": "internacional",
+   "name": "Al Jazeera English",
+   "subtitle": "Catar · inglés",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/aljazeera.png",
+   "website": "https://www.aljazeera.com/video/live",
+   "sources": [
+    {
+     "name": "Señal en vivo de Al Jazeera English",
+     "kind": "HLS",
+     "url": "https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8",
+     "referer": "https://www.aljazeera.com/",
+     "family": "",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de Al Jazeera English",
+     "kind": "WEB",
+     "url": "https://www.aljazeera.com/video/live",
+     "referer": "https://www.aljazeera.com/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "nhk",
+   "number": 116,
+   "section": "internacional",
+   "name": "NHK World-Japan",
+   "subtitle": "Japón · inglés",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/nhk.png",
+   "website": "https://www3.nhk.or.jp/nhkworld/en/live_tv/",
+   "sources": [
+    {
+     "name": "Señal en vivo de NHK World-Japan",
+     "kind": "HLS",
+     "url": "https://masterpl.hls.nhkworld.jp/hls/w/live/master.m3u8",
+     "referer": "https://www3.nhk.or.jp/",
+     "family": "",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de NHK World-Japan",
+     "kind": "WEB",
+     "url": "https://www3.nhk.or.jp/nhkworld/en/live_tv/",
+     "referer": "https://www3.nhk.or.jp/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "cbsnews",
+   "number": 117,
+   "section": "internacional",
+   "name": "CBS News 24/7",
+   "subtitle": "EE. UU. · inglés",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/cbsnews.png",
+   "website": "https://www.cbsnews.com/live/",
+   "sources": [
+    {
+     "name": "Señal en vivo de CBS News 24/7",
+     "kind": "HLS",
+     "url": "https://news20e7hhcb.airspace-cdn.cbsivideo.com/index.m3u8",
+     "referer": "https://www.cbsnews.com/",
+     "family": "",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de CBS News 24/7",
+     "kind": "WEB",
+     "url": "https://www.cbsnews.com/live/",
+     "referer": "https://www.cbsnews.com/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "skynews",
+   "number": 118,
+   "section": "internacional",
+   "name": "Sky News",
+   "subtitle": "Reino Unido · inglés",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/skynews.png",
+   "website": "https://news.sky.com/watch-live",
+   "sources": [
+    {
+     "name": "Señal en vivo de Sky News",
+     "kind": "HLS",
+     "url": "https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/master.m3u8",
+     "referer": "https://news.sky.com/",
+     "family": "",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de Sky News",
+     "kind": "WEB",
+     "url": "https://news.sky.com/watch-live",
+     "referer": "https://news.sky.com/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "bloomberg",
+   "number": 119,
+   "section": "internacional",
+   "name": "Bloomberg TV",
+   "subtitle": "EE. UU. · inglés",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/bloomberg.png",
+   "website": "https://www.bloomberg.com/live/us",
+   "sources": [
+    {
+     "name": "Señal en vivo de Bloomberg TV",
+     "kind": "HLS",
+     "url": "https://dai.google.com/linear/hls/event/k-VHR5unRdusBDqoXAuB0Q/master.m3u8",
+     "referer": "https://www.bloomberg.com/",
+     "family": "",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de Bloomberg TV",
+     "kind": "WEB",
+     "url": "https://www.bloomberg.com/live/us",
+     "referer": "https://www.bloomberg.com/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "arirang",
+   "number": 120,
+   "section": "internacional",
+   "name": "Arirang TV",
+   "subtitle": "Corea del Sur · inglés",
+   "radio": false,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/arirang.png",
+   "website": "https://www.arirang.com/live",
+   "sources": [
+    {
+     "name": "Señal en vivo de Arirang TV",
+     "kind": "HLS",
+     "url": "https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8",
+     "referer": "https://www.arirang.com/",
+     "family": "",
+     "automatic": true
+    },
+    {
+     "name": "Sitio oficial de Arirang TV",
+     "kind": "WEB",
+     "url": "https://www.arirang.com/live",
+     "referer": "https://www.arirang.com/",
+     "family": "web",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "cooperativa",
+   "number": 200,
+   "section": "radio",
+   "name": "Cooperativa",
+   "subtitle": "Noticias · 93.3 FM",
+   "radio": true,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/cooperativa.png",
+   "website": "https://www.cooperativa.cl/radioenvivo/",
+   "sources": [
+    {
+     "name": "Señal en vivo de Cooperativa",
+     "kind": "HLS",
+     "url": "https://redirector.rudo.video/hls-audio/db2df219c84229238d39f8af445c586c/cooperativa/cooperativa.smil/playlist.m3u8",
+     "referer": "https://www.cooperativa.cl/",
+     "family": "",
+     "automatic": true
+    },
+    {
+     "name": "Video del estudio",
+     "kind": "RUDO",
+     "url": "https://rudo.video/live/coopetv",
+     "referer": "https://www.cooperativa.cl/",
+     "family": "dps",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "biobio",
+   "number": 201,
+   "section": "radio",
+   "name": "Radio Bío-Bío",
+   "subtitle": "Noticias · 99.7 FM",
+   "radio": true,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/biobio.png",
+   "website": "https://vivo.biobiochile.cl/player/?radio=santiago",
+   "sources": [
+    {
+     "name": "Señal en vivo de Radio Bío-Bío",
+     "kind": "AUDIO",
+     "url": "https://redirector.dps.live/biobiosantiago/aac/icecast.audio",
+     "referer": "https://vivo.biobiochile.cl/",
+     "family": "",
+     "automatic": true
+    },
+    {
+     "name": "Video del estudio",
+     "kind": "RUDO",
+     "url": "https://rudo.video/live/bbtv",
+     "referer": "https://vivo.biobiochile.cl/",
+     "family": "dps",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "adn",
+   "number": 202,
+   "section": "radio",
+   "name": "ADN Radio",
+   "subtitle": "Noticias y deportes · 91.7 FM",
+   "radio": true,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/adn.png",
+   "website": "https://www.adnradio.cl/",
+   "sources": [
+    {
+     "name": "Señal en vivo de ADN Radio",
+     "kind": "AUDIO",
+     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ADN.mp3",
+     "referer": "https://www.adnradio.cl/",
+     "family": "",
+     "automatic": true
+    },
+    {
+     "name": "Video del estudio",
+     "kind": "RUDO",
+     "url": "https://rudo.video/live/adntv",
+     "referer": "https://www.adnradio.cl/",
+     "family": "dps",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "agricultura",
+   "number": 203,
+   "section": "radio",
+   "name": "Radio Agricultura",
+   "subtitle": "Noticias · 92.1 FM",
+   "radio": true,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/agricultura.png",
+   "website": "https://www.radioagricultura.cl/en-vivo-3/",
+   "sources": [
+    {
+     "name": "Señal en vivo de Radio Agricultura",
+     "kind": "HLS",
+     "url": "https://hls-audio-cl-1-isp.dps.live/agricultura/gotardis/audio/now/livestream1.m3u8",
+     "referer": "https://www.radioagricultura.cl/",
+     "family": "",
+     "automatic": true
+    },
+    {
+     "name": "Video del estudio",
+     "kind": "RUDO",
+     "url": "https://rudo.video/live/921tv",
+     "referer": "https://www.radioagricultura.cl/",
+     "family": "dps",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "tele13radio",
+   "number": 204,
+   "section": "radio",
+   "name": "Tele13 Radio",
+   "subtitle": "Noticias · 103.3 FM",
+   "radio": true,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/tele13radio.png",
+   "website": "https://tele13radio.cl/",
+   "sources": [
+    {
+     "name": "Señal en vivo de Tele13 Radio",
+     "kind": "AUDIO",
+     "url": "https://mdstrm.com/audio/5c915613519bce27671c4caa/icecast.audio",
+     "referer": "https://tele13radio.cl/",
+     "family": "",
+     "automatic": true
+    }
+   ]
+  },
+  {
+   "id": "pauta",
+   "number": 205,
+   "section": "radio",
+   "name": "Radio Pauta",
+   "subtitle": "Actualidad · 100.5 FM",
+   "radio": true,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/pauta.png",
+   "website": "https://www.pauta.cl/radio-en-vivo/",
+   "sources": [
+    {
+     "name": "Señal en vivo de Radio Pauta",
+     "kind": "AUDIO",
+     "url": "https://redirector.dps.live/radiopauta/aac/icecast.audio",
+     "referer": "https://www.pauta.cl/",
+     "family": "",
+     "automatic": true
+    },
+    {
+     "name": "Video del estudio",
+     "kind": "RUDO",
+     "url": "https://rudo.video/live/pautatv",
+     "referer": "https://www.pauta.cl/",
+     "family": "dps",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "duna",
+   "number": 206,
+   "section": "radio",
+   "name": "Radio Duna",
+   "subtitle": "Conversación y música · 89.7 FM",
+   "radio": true,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/duna.png",
+   "website": "https://duna.cl/",
+   "sources": [
+    {
+     "name": "Señal en vivo de Radio Duna",
+     "kind": "AUDIO",
+     "url": "https://mdstrm.com/audio/67f42f96e464d19a6eda3c7d/icecast.audio",
+     "referer": "https://duna.cl/",
+     "family": "",
+     "automatic": true
+    },
+    {
+     "name": "Video del estudio",
+     "kind": "HLS",
+     "url": "https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8",
+     "referer": "https://duna.cl/",
+     "family": "",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "futuro",
+   "number": 207,
+   "section": "radio",
+   "name": "Radio Futuro",
+   "subtitle": "Rock · 88.9 FM",
+   "radio": true,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/futuro.png",
+   "website": "https://envivo.futuro.cl/",
+   "sources": [
+    {
+     "name": "Señal en vivo de Radio Futuro",
+     "kind": "AUDIO",
+     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/FUTURO.mp3",
+     "referer": "https://envivo.futuro.cl/",
+     "family": "",
+     "automatic": true
+    }
+   ]
+  },
+  {
+   "id": "rockandpop",
+   "number": 208,
+   "section": "radio",
+   "name": "Rock & Pop",
+   "subtitle": "Rock y pop · 94.1 FM",
+   "radio": true,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/rockandpop.png",
+   "website": "https://www.rockandpop.cl/",
+   "sources": [
+    {
+     "name": "Señal en vivo de Rock & Pop",
+     "kind": "AUDIO",
+     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_AND_POP.mp3",
+     "referer": "https://www.rockandpop.cl/",
+     "family": "",
+     "automatic": true
+    }
+   ]
+  },
+  {
+   "id": "concierto",
+   "number": 209,
+   "section": "radio",
+   "name": "Radio Concierto",
+   "subtitle": "Clásicos · 88.5 FM",
+   "radio": true,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/concierto.png",
+   "website": "https://envivo.concierto.cl/",
+   "sources": [
+    {
+     "name": "Señal en vivo de Radio Concierto",
+     "kind": "AUDIO",
+     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTO.mp3",
+     "referer": "https://envivo.concierto.cl/",
+     "family": "",
+     "automatic": true
+    }
+   ]
+  },
+  {
+   "id": "pudahuel",
+   "number": 210,
+   "section": "radio",
+   "name": "Radio Pudahuel",
+   "subtitle": "Música popular · 90.5 FM",
+   "radio": true,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/pudahuel.png",
+   "website": "https://envivo.pudahuel.cl/",
+   "sources": [
+    {
+     "name": "Señal en vivo de Radio Pudahuel",
+     "kind": "AUDIO",
+     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/PUDAHUEL.mp3",
+     "referer": "https://envivo.pudahuel.cl/",
+     "family": "",
+     "automatic": true
+    }
+   ]
+  },
+  {
+   "id": "infinita",
+   "number": 211,
+   "section": "radio",
+   "name": "Radio Infinita",
+   "subtitle": "Música y cultura · 100.1 FM",
+   "radio": true,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/infinita.png",
+   "website": "https://www.infinita.cl/",
+   "sources": [
+    {
+     "name": "Señal en vivo de Radio Infinita",
+     "kind": "AUDIO",
+     "url": "https://mdstrm.com/audio/639b791cea22540890cd1d8b/icecast.audio",
+     "referer": "https://www.infinita.cl/",
+     "family": "",
+     "automatic": true
+    },
+    {
+     "name": "Video del estudio",
+     "kind": "HLS",
+     "url": "https://mdstrm.com/live-stream-playlist/63a066e54ed536087960b550.m3u8",
+     "referer": "https://www.infinita.cl/",
+     "family": "",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "carolina",
+   "number": 212,
+   "section": "radio",
+   "name": "Radio Carolina",
+   "subtitle": "Música actual · 99.3 FM",
+   "radio": true,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/carolina.png",
+   "website": "https://www.carolina.cl/senal-en-vivo/",
+   "sources": [
+    {
+     "name": "Señal en vivo de Radio Carolina",
+     "kind": "AUDIO",
+     "url": "https://mdstrm.com/audio/637f68ddce4b1208597d8a86/icecast.audio",
+     "referer": "https://www.carolina.cl/",
+     "family": "",
+     "automatic": true
+    },
+    {
+     "name": "Video del estudio",
+     "kind": "HLS",
+     "url": "https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8",
+     "referer": "https://www.carolina.cl/",
+     "family": "",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "beethoven",
+   "number": 213,
+   "section": "radio",
+   "name": "Radio Beethoven",
+   "subtitle": "Música clásica · 96.5 FM",
+   "radio": true,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/beethoven.png",
+   "website": "https://www.beethovenfm.cl/player2/",
+   "sources": [
+    {
+     "name": "Señal en vivo de Radio Beethoven",
+     "kind": "HLS",
+     "url": "https://unlimited3-cl.dps.live/beethovenfm/gotardis/audio/now/livestream1.m3u8",
+     "referer": "https://www.beethovenfm.cl/",
+     "family": "",
+     "automatic": true
+    }
+   ]
+  },
+  {
+   "id": "uchileradio",
+   "number": 214,
+   "section": "radio",
+   "name": "Radio U. de Chile",
+   "subtitle": "Cultura y noticias · 102.5 FM",
+   "radio": true,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/uchileradio.png",
+   "website": "https://radio.uchile.cl/senal-en-vivo/",
+   "sources": [
+    {
+     "name": "Señal en vivo de Radio U. de Chile",
+     "kind": "AUDIO",
+     "url": "https://sonic-us.arkeo.cl/8094/;",
+     "referer": "https://radio.uchile.cl/",
+     "family": "",
+     "automatic": true
+    }
+   ]
+  },
+  {
+   "id": "biobioconce",
+   "number": 215,
+   "section": "radio",
+   "name": "Bío-Bío Concepción",
+   "subtitle": "Concepción · 98.1 FM",
+   "radio": true,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/biobioconce.png",
+   "website": "https://vivo.biobiochile.cl/player/?radio=concepcion",
+   "sources": [
+    {
+     "name": "Señal en vivo de Bío-Bío Concepción",
+     "kind": "AUDIO",
+     "url": "https://redirector.dps.live/biobioconcepcion/aac/icecast.audio",
+     "referer": "https://vivo.biobiochile.cl/",
+     "family": "",
+     "automatic": true
+    }
+   ]
+  },
+  {
+   "id": "festival",
+   "number": 216,
+   "section": "radio",
+   "name": "Radio Festival",
+   "subtitle": "Viña del Mar · 93.7 FM",
+   "radio": true,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/festival.png",
+   "website": "https://www.radiofestival.cl/",
+   "sources": [
+    {
+     "name": "Señal en vivo de Radio Festival",
+     "kind": "AUDIO",
+     "url": "https://sp001.servidoresph.com:7061/1",
+     "referer": "https://www.radiofestival.cl/",
+     "family": "",
+     "automatic": true
+    }
+   ]
+  },
+  {
+   "id": "maray",
+   "number": 217,
+   "section": "radio",
+   "name": "Radio Maray",
+   "subtitle": "Copiapó",
+   "radio": true,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/maray.png",
+   "website": "https://www.maray.cl/",
+   "sources": [
+    {
+     "name": "Señal en vivo de Radio Maray",
+     "kind": "AUDIO",
+     "url": "https://video.mediawebchile.com/stream/8212/stream",
+     "referer": "https://www.maray.cl/",
+     "family": "",
+     "automatic": true
+    },
+    {
+     "name": "Video del estudio",
+     "kind": "HLS",
+     "url": "https://5eaccbab48461.streamlock.net:1936/8242/ngrp:8242_all/playlist.m3u8",
+     "referer": "https://www.maray.cl/",
+     "family": "",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "polar",
+   "number": 218,
+   "section": "radio",
+   "name": "Radio Polar",
+   "subtitle": "Punta Arenas",
+   "radio": true,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/polar.png",
+   "website": "https://www.radiopolar.com/",
+   "sources": [
+    {
+     "name": "Señal en vivo de Radio Polar",
+     "kind": "AUDIO",
+     "url": "https://radiopolar.giize.com/listen/radio_polar/radio.mp3",
+     "referer": "https://www.radiopolar.com/",
+     "family": "",
+     "automatic": true
+    },
+    {
+     "name": "Video del estudio",
+     "kind": "HLS",
+     "url": "https://polartv.webredirect.org/memfs/319ac83c-e602-4e91-8104-2b5501380b5e.m3u8",
+     "referer": "https://www.radiopolar.com/",
+     "family": "",
+     "automatic": false
+    }
+   ]
+  },
+  {
+   "id": "radiosol",
+   "number": 219,
+   "section": "radio",
+   "name": "Radio Sol",
+   "subtitle": "Antofagasta · 97.7 FM",
+   "radio": true,
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/radiosol.png",
+   "website": "https://radiosol.cl/",
+   "sources": [
+    {
+     "name": "Señal en vivo de Radio Sol",
+     "kind": "AUDIO",
+     "url": "https://us9.maindigitalstream.com/ssl/7389",
+     "referer": "https://radiosol.cl/",
+     "family": "",
+     "automatic": true
+    }
+   ]
+  }
+ ]
+}
