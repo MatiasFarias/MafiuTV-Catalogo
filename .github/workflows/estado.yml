@@ -5,8 +5,11 @@ name: Estado de los canales
 # conservan su último estado, que se actualiza desde Chile.
 # El verificador vive en el repo privado y se lee con una llave de solo lectura (secreto MAFIUTV_LECTURA).
 # Este workflow no puede cambiar el catálogo: la app solo acepta catálogos firmados con la clave del
-# autor, que no está en GitHub. Se ejecuta solo a pedido.
+# autor, que no está en GitHub. Se ejecuta todos los días y también a pedido.
 on:
+  schedule:
+    # 12:17 UTC = 09:17 en Chile con horario de verano (08:17 en invierno). GitHub puede atrasarlo unos minutos.
+    - cron: "17 12 * * *"
   workflow_dispatch:
 
 permissions:
