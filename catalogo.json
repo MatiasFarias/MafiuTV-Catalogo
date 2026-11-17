@@ -1,6 +1,6 @@
 {
- "version": 5,
- "updated": "2026-11-10",
+ "version": 6,
+ "updated": "2026-11-17",
  "update_url": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/catalogo.json",
  "sections": [
   {
@@ -464,7 +464,7 @@
    "name": "TVN 3",
    "subtitle": "Señal digital de TVN",
    "radio": false,
-   "logo": "",
+   "logo": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/logos/tvn3.png",
    "website": "https://www.tvn.cl/tvn3",
    "sources": [
     {
