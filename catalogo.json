@@ -1,5 +1,5 @@
 {
- "version": 7,
+ "version": 8,
  "updated": "2026-11-17",
  "update_url": "https://raw.githubusercontent.com/MatiasFarias/MafiuTV-Catalogo/main/catalogo.json",
  "sections": [
@@ -2200,18 +2200,18 @@
  ],
  "app": {
   "oficial": {
-   "version": "3.1.0",
-   "code": 11,
-   "url": "https://github.com/MatiasFarias/MafiuTV-Catalogo/releases/download/app-3.1.0/MafiuTV-3.1.0.apk",
-   "sha256": "b91514e567a0a796bd5605a7aa94ca5c775472a15afe55a7f54f43a244b42a01",
-   "size": 2330253
+   "version": "3.1.1",
+   "code": 12,
+   "url": "https://github.com/MatiasFarias/MafiuTV-Catalogo/releases/download/app-3.1.1/MafiuTV-3.1.1.apk",
+   "sha256": "558241d833403f29c2e16b6ffb67dade90225092fae519d9ce4c589a9372719c",
+   "size": 2330857
   },
   "legacy": {
-   "version": "3.1.0",
-   "code": 11,
-   "url": "https://github.com/MatiasFarias/MafiuTV-Catalogo/releases/download/app-3.1.0/MafiuTV-3.1.0-legacy.apk",
-   "sha256": "5b13e165df6f068be7b113d2445922e43427e327307fd97a74d09fc4135102b0",
-   "size": 2361069
+   "version": "3.1.1",
+   "code": 12,
+   "url": "https://github.com/MatiasFarias/MafiuTV-Catalogo/releases/download/app-3.1.1/MafiuTV-3.1.1-legacy.apk",
+   "sha256": "16218062b0a20f5b9f91ce5f305d9c25ba889aebf19a39a5d9662b25d7ba9e57",
+   "size": 2361706
   }
  }
 }
