@@ -30,7 +30,7 @@ Las correcciones de fuentes se publican como un catálogo nuevo firmado; no las 
 🟢 Funciona · 🟡 Funciona con una fuente de respaldo · 🔴 Caída · ⚪ Sin verificar
 
 <!-- estado:inicio -->
-**Catálogo versión 10** · 77 señales · 🟢 77 · 🟡 0 · 🔴 0 · ⚪ 0
+**Catálogo versión 11** · 77 señales · 🟢 77 · 🟡 0 · 🔴 0 · ⚪ 0
 
 Última verificación: 17-11-2026 18:00 (hora de Chile) desde GitHub Actions (EE. UU.).
 
