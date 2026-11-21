@@ -32,7 +32,7 @@ Las correcciones de fuentes se publican como un catálogo nuevo firmado; no las 
 <!-- estado:inicio -->
 **Catálogo versión 11** · 77 señales · 🟢 77 · 🟡 0 · 🔴 0 · ⚪ 0
 
-Última verificación: 20-11-2026 17:28 (hora de Chile) desde GitHub Actions (EE. UU.).
+Última verificación: 21-11-2026 16:22 (hora de Chile) desde GitHub Actions (EE. UU.).
 
 ### Nacional
 
@@ -43,8 +43,8 @@ Las correcciones de fuentes se publican como un catálogo nuevo firmado; no las 
 | 3 | Chilevisión | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
 | 4 | TVN | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
 | 5 | T13 En Vivo | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
-| 6 | Meganoticias Ahora | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 7 | CHV Noticias | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
+| 6 | Meganoticias Ahora | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 7 | CHV Noticias | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
 | 8 | 24 Play | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
 
 ### Más Chile
@@ -52,87 +52,87 @@ Las correcciones de fuentes se publican como un catálogo nuevo firmado; no las 
 | N.º | Canal | Estado | Última verificación | Detalle |
 |---:|---|---|---|---|
 | 10 | NTV | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
-| 11 | TV Senado | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 12 | La Red | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 13 | TV+ | 🟢 Funciona | 19-11-2026 17:43 · GitHub Actions (EE. UU.) |  |
-| 14 | TVN 3 | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
+| 11 | TV Senado | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 12 | La Red | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 13 | TV+ | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) | intermitente |
+| 14 | TVN 3 | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
 | 15 | TV Chile | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
-| 16 | Bío Bío TV | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
+| 16 | Bío Bío TV | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
 | 17 | UChile TV | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
-| 18 | Santiago TV | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
+| 18 | Santiago TV | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
 | 19 | UCV TV | 🟢 Funciona | 10-11-2026 23:05 · Chile |  |
 
 ### Regionales
 
 | N.º | Canal | Estado | Última verificación | Detalle |
 |---:|---|---|---|---|
-| 20 | Iquique TV | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 21 | Antofagasta TV | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 22 | Holvoet TV | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 23 | Thema TV | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 24 | TVR | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 25 | VTV Aconcagua | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 26 | Canal 2 San Antonio | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 27 | UTalca TV | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 28 | Contivisión | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 29 | Canal 9 Bío-Bío | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 30 | TVU | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
+| 20 | Iquique TV | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 21 | Antofagasta TV | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 22 | Holvoet TV | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 23 | Thema TV | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 24 | TVR | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 25 | VTV Aconcagua | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 26 | Canal 2 San Antonio | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 27 | UTalca TV | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 28 | Contivisión | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 29 | Canal 9 Bío-Bío | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 30 | TVU | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
 | 31 | TV UCT | 🟢 Funciona | 17-11-2026 18:00 · GitHub Actions (EE. UU.) |  |
-| 32 | Teleangol | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 33 | Décima TV | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 34 | Canal 2 Quellón | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 35 | Santa María TV | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 36 | ITV Patagonia | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 37 | Pingüino TV | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) | intermitente |
+| 32 | Teleangol | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 33 | Décima TV | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 34 | Canal 2 Quellón | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 35 | Santa María TV | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 36 | ITV Patagonia | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 37 | Pingüino TV | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
 
 ### Internacional
 
 | N.º | Canal | Estado | Última verificación | Detalle |
 |---:|---|---|---|---|
-| 100 | DW Español | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 101 | France 24 Español | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 102 | Canal 24 Horas | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 103 | TVE Internacional | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 104 | TV Pública | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 105 | TN | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 106 | teleSUR | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 107 | Señal Colombia | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 108 | Canal Once | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 109 | Canal 22 | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 110 | TV UNAM | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 111 | Ecuador TV | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 112 | Paraguay TV | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 113 | DW English | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 114 | France 24 English | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 115 | Al Jazeera English | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 116 | NHK World-Japan | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 117 | CBS News 24/7 | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 118 | Sky News | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 119 | Bloomberg TV | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 120 | Arirang TV | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
+| 100 | DW Español | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 101 | France 24 Español | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 102 | Canal 24 Horas | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 103 | TVE Internacional | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 104 | TV Pública | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 105 | TN | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 106 | teleSUR | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 107 | Señal Colombia | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 108 | Canal Once | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 109 | Canal 22 | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 110 | TV UNAM | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 111 | Ecuador TV | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 112 | Paraguay TV | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 113 | DW English | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 114 | France 24 English | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 115 | Al Jazeera English | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 116 | NHK World-Japan | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 117 | CBS News 24/7 | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 118 | Sky News | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 119 | Bloomberg TV | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 120 | Arirang TV | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
 
 ### Radios
 
 | N.º | Canal | Estado | Última verificación | Detalle |
 |---:|---|---|---|---|
-| 200 | Cooperativa | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 201 | Radio Bío-Bío | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 202 | ADN Radio | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 203 | Radio Agricultura | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 204 | Tele13 Radio | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 205 | Radio Pauta | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 206 | Radio Duna | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 207 | Radio Futuro | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 208 | Rock & Pop | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 209 | Radio Concierto | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 210 | Radio Pudahuel | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 211 | Radio Infinita | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 212 | Radio Carolina | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 213 | Radio Beethoven | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 214 | Radio U. de Chile | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 215 | Bío-Bío Concepción | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 216 | Radio Festival | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 217 | Radio Maray | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 218 | Radio Polar | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
-| 219 | Radio Sol | 🟢 Funciona | 20-11-2026 17:28 · GitHub Actions (EE. UU.) |  |
+| 200 | Cooperativa | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 201 | Radio Bío-Bío | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 202 | ADN Radio | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 203 | Radio Agricultura | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 204 | Tele13 Radio | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 205 | Radio Pauta | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 206 | Radio Duna | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 207 | Radio Futuro | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 208 | Rock & Pop | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 209 | Radio Concierto | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 210 | Radio Pudahuel | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 211 | Radio Infinita | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 212 | Radio Carolina | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 213 | Radio Beethoven | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 214 | Radio U. de Chile | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 215 | Bío-Bío Concepción | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 216 | Radio Festival | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 217 | Radio Maray | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 218 | Radio Polar | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
+| 219 | Radio Sol | 🟢 Funciona | 21-11-2026 16:22 · GitHub Actions (EE. UU.) |  |
 <!-- estado:fin -->
